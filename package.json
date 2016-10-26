@@ -1,0 +1,28 @@
+{
+  "name": "sass_practice",
+  "version": "1.0.0",
+  "description": "kl sass practice",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkai316/sass_practice.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "kkai316",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkai316/sass_practice/issues"
+  },
+  "homepage": "https://github.com/kkai316/sass_practice#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
